@@ -1,8 +1,6 @@
 # S T M 3 2 - E 4 0 7    B L I N K
 
-Hello World example for the [STM32-E407 board](https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware) on [PlatformIO](https://platformio.org) with the Arduino framework.
-
-> It doesn’t work yet and this depot is here to explain what I tried so far.
+Hello World example for the [STM32-E407 board](https://www.olimex.com/Products/ARM/ST/STM32-E407/open-source-hardware) on [PlatformIO](https://platformio.org) with the STM32Cube framework.
 
 ## IMAGES
 
